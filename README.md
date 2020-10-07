@@ -1,0 +1,2 @@
+# mynewrepo
+A trainning repository 
